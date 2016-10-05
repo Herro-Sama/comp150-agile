@@ -1,6 +1,6 @@
 # comp150-agile
 
-_Essay on the_ *Agile* Philosophy
+__Essay on the__ *Agile* Philosophy
 
 - Source Uno: https://www.computer.org/csdl/proceedings/hicss/2011/4282/00/01-09-03.pdf
 - Source Duo: http://www.gdcvault.com.ezproxy.falmouth.ac.uk/play/1020790/Agile-Lessons-from-Ryse-and

@@ -10,6 +10,6 @@ the Use of Agile Methods: A Pilot Study", Proceedings of the 44th Hawaii Interna
 [2] GDC Deus Vault, "Agile Lessons from Ryse and Crysis 3", GDCVault.com [Online] Available http://www.gdcvault.com.ezproxy.falmouth.ac.uk/play/1020790/Agile-Lessons-from-Ryse-and [Accessed 05/10/2016]
 
 - Source Trio: https://www.computer.org/csdl/proceedings/euromicro/2004/2199/00/21990310.pdf
-[3] 
+[3] Outi Salo, "Improving Software Process in Agile Software Development Projects: Results from Two XP Case Studies", , vol. 00, no. , pp. 310-317, 2004, doi:10.1109/EURMIC.2004.1333385
 
 - Source Quadro: https://www.computer.org/csdl/proceedings/adc/2004/2248/00/22480002.pdf

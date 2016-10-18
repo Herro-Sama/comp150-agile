@@ -13,3 +13,4 @@ the Use of Agile Methods: A Pilot Study", Proceedings of the 44th Hawaii Interna
 [3] Outi Salo, "Improving Software Process in Agile Software Development Projects: Results from Two XP Case Studies", , vol. 00, no. , pp. 310-317, 2004, doi:10.1109/EURMIC.2004.1333385
 
 - Source 4: https://www.computer.org/csdl/proceedings/adc/2004/2248/00/22480002.pdf
+[4] Tuomo K?hk?nen, "Agile Methods for Large Organizations - Building Communities of Practice", , vol. 00, no. , pp. 2-11 , 2004, doi:10.1109/ADEVC.2004.4

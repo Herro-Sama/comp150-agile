@@ -14,3 +14,6 @@ the Use of Agile Methods: A Pilot Study", Proceedings of the 44th Hawaii Interna
 
 - Source 4: https://www.computer.org/csdl/proceedings/adc/2004/2248/00/22480002.pdf
 [4] Tuomo K?hk?nen, "Agile Methods for Large Organizations - Building Communities of Practice", , vol. 00, no. , pp. 2-11 , 2004, doi:10.1109/ADEVC.2004.4
+
+- Source 5: http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6092605/
+[5]  Laurie Williams, Gabe Brown, Adam Meltzer, Nachiappan Nagappan "Scrum + Engineering Practices: Experiences of Three Microsoft Teams", Empirical Software Engineering and Measurement (ESEM), 2011 International Symposium on,  22-23 Sept. 2011, DOI: 10.1109/ESEM.2011.65.

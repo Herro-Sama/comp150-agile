@@ -19,3 +19,6 @@ the Use of Agile Methods: A Pilot Study", Proceedings of the 44th Hawaii Interna
 [5]  Laurie Williams, Gabe Brown, Adam Meltzer, Nachiappan Nagappan "Scrum + Engineering Practices: Experiences of Three Microsoft Teams", Empirical Software Engineering and Measurement (ESEM), 2011 International Symposium on,  22-23 Sept. 2011, DOI: 10.1109/ESEM.2011.65.
 
 - Source 6: http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6912078/
+
+- Source 7: http://www.aom-iaom.org/jitm_pdfs/jitm_08/article3.pdf 
+[7]  AGILE SOFTWARE DEVELOPMENT: A SURVEY OF EARLY ADOPTERS 
